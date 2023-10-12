@@ -1,1 +1,1 @@
-version = "beta05"
+version = "beta06"
